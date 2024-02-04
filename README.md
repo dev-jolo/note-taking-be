@@ -46,7 +46,7 @@ Make sure you have the following installed on your machine:
 
    - Provide variables
       ```env
-      PORT=3000
+      PORT=8080
       NOTES_PATH='./data/notes.json'
 
 ### Assumptions
@@ -88,5 +88,5 @@ Create a `.env` file in the root of your project and define the necessary enviro
 Example `.env` file:
 
    ```env
-   PORT=3000
+   PORT=8080
    NOTES_PATH='./data/notes.json'
